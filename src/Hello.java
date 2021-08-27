@@ -12,6 +12,6 @@ public class Hello {
 		System.out.println("Hello, Jay.");
 	}
 	static void personalizedMessage(String person) {
-		System.out.println("Henlo, " + person + ".");
+		System.out.println("Hello, " + person + ".");
 	}
 }
